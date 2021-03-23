@@ -1,0 +1,18 @@
+{
+  "name": "ledger-bug-bitso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alberto Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "bitso-bert-api": "^0.0.8",
+    "del": "^6.0.0",
+    "dotenv": "^8.2.0",
+    "json-diff": "^0.5.4"
+  }
+}
